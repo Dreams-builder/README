@@ -14,35 +14,61 @@
 此许可证的要求和限制：
 
 Permissions
- ‘’ Commercial use
+
+ ✔Commercial use
+ 
  ✔Modification
+ 
  ✔Distribution
+ 
  ✔Patent use
+ 
  ✔Private use
+ 
 Limitations
+
  ✖ Liability
+ 
  ✖  Warranty
+ 
 Conditions
+
  i License and copyright notice
+ 
  i State changes
+ 
  i Disclose source
+ 
  i Same license
  
  以下是中文版本
  
  权限
+ 
   商业用途
+  
   修改
+  
   分配
+  
   专利使用
+  
   私人使用
+  
 局限性
+
   责任
+  
   保证
+  
 条件
+
   许可和版权声明
+  
   状态变更
+  
   公开来源
+  
   相同许可证
   
   此许可证允许你将我们的程序用于商业用途。并可以修改以及分发。同时，所有程序可以用于你的专利中或者是私人使用。但是我们不负任何的责任也不会进行对程序的保证。使用我们的程序的前提是，在你的程序中加入许可并声明我们的版权。作者名一律为 Dream-builder/<真实的作者名>
@@ -51,8 +77,9 @@ Conditions
   由于需要作者名，所以请我们团队的成员注意。一定要在！你程序的文档中(最好是开头的位置)写下: 本程序真实维护人,主要人员:xxx,xxx,xxx(对本程序作出贡献的成员名称也要写出)
   
   # 许可证完整内容
-  (可以直接拷贝到License文件，无后缀，然后放到你项目的根目录里面。这就是你的许可证。)
+  (可以直接拷贝到License文件，无后缀，然后放到你项目的根目录里面。这就是你的许可证。)若你无法拷贝。在本项目的根目录中也有许可证。可以直接下载使用。
   分割符下的才是你应该复制的内容。
+  
   -------
   
   GNU GENERAL PUBLIC LICENSE
