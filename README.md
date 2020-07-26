@@ -15,7 +15,10 @@
 
 示一些许可的版权内容，(在下方的许可证中)。否则我们的项目就不是开源项目。
 
-具体需要在你的程序中显示的内容如下，<>中的内容需要你自行替换。(未知错误，下方可能无法显示完整，请至下方条款中复制，或参考 https://github.com/Dreams-builder/O365-Client/Client.py 
+具体需要在你的程序中显示的内容如下，<>中的内容需要你自行替换。(未知错误，下方可能无法显示完整，请至下方条款中复制，或参考 https://github.com/Dreams-builder/O365-Client/blob/master/Client.py
+
+
+-----
 
 <one line to give the program's name and a brief idea of what it does.>
 
