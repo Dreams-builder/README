@@ -10,14 +10,19 @@
 
 # 本团队的作用
 使大家可以在一起共同学习Python，可以将自己的代码提交到我们的团队存储库中。大家可以帮忙再修改一下。而且在这里的项目更容易被他人发现。也更方便我们协作，帮助你的程序改善。
-我们是一个开源的组织，所有人都可以使用我们的代码，但是他们必须遵守以下的许可证(GNU General Public License v3.0开源许可证)你们也必须将刺许可证添加至你们项目的根目录，代码中也必须要修改一下，显示一些许可的版权内容，(在下方的许可证中)。否则我们的项目就不是开源项目。
+
+我们是一个开源的组织，所有人都可以使用我们的代码，但是他们必须遵守以下的许可证(GNU General Public License v3.0开源许可证)你们也必须将刺许可证添加至你们项目的根目录，代码中也必须要修改一下，显
+
+示一些许可的版权内容，(在下方的许可证中)。否则我们的项目就不是开源项目。
 
 具体需要在你的程序中显示的内容如下，<>中的内容需要你自行替换。
+
 
   <program>  Copyright (C) <year>  <name of author>
     This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
     This is free software, and you are welcome to redistribute it
     under certain conditions; type `show c' for details.
+  
 
 # 规定
 
